@@ -1,0 +1,15 @@
+/*reset*/
+body{
+    font-size: 12px;
+    height: 100vh;
+    width: 100vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    border: 2px lightgray solid;
+    border-radius: 20px;
+}
